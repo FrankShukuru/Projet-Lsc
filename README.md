@@ -39,3 +39,4 @@ Le projet repose sur :
 ├── requirements.txt # Dépendances Python
 └── README.md
 Auteur Ir Frank
+Année Accademique 2025-2026
