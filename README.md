@@ -38,3 +38,4 @@ Le projet repose sur :
 ├── notebooks/ # Tests et expérimentations
 ├── requirements.txt # Dépendances Python
 └── README.md
+Auteur Ir Frank
